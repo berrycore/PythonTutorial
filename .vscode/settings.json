@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "connectionTimeout": 30,
+            "database": "XE",
+            "dialect": "OracleDB",
+            "name": "EVAPROJECT",
+            "password": "evaproject",
+            "port": 1521,
+            "server": "127.0.0.1",
+            "username": "evaproject"
+        }
+    ]
+}
