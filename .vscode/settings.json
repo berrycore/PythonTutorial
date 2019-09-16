@@ -10,5 +10,11 @@
             "server": "127.0.0.1",
             "username": "evaproject"
         }
-    ]
+    ],
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
 }
